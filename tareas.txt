@@ -1,0 +1,7 @@
+Escribir_guion Hacer_storyboard
+Hacer_storyboard Crear_fondos
+Crear_fondos Crear_Sonidos
+Crear_Sonidos Crear_logica_de_APUS
+Crear_logica_de_APUS Crear_logica_de_Illas
+Crear_logica_de_Illas Integrar
+Integrar Publicar

@@ -1,0 +1,9 @@
+Tareas	Costo	tiempo	esfuerzo
+Escribir_guion	20	6	0.8
+Hacer_storyboard	30	5	9
+Crear_fondos	20	4	0.9
+Crear_Sonidos	60	8	0.8
+Crear_logica_de_APUS	23	7	0
+Crear_logica_de_Illas	26	5	0.5
+Integrar	80	4	0.6
+ Publicar	25	6	0.7
